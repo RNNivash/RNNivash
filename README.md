@@ -40,11 +40,12 @@ If you’re looking for a data enthusiast who can bring clarity and impact to yo
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](![RNNivash's Stats](https://github-readme-stats.vercel.app/api?username=RNNivash&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![RNNivash's Stats](https://github-readme-stats.vercel.app/api?username=RNNivash&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+### 🔥 GitHub Streak:
 ![RNNivash's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RNNivash&theme=vue-dark&hide_border=true)
+
+### 💬 Top Languages:
 ![RNNivash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RNNivash&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-)
-
 ---
 
