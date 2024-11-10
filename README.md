@@ -25,8 +25,10 @@ Visit my GitHub Portfolio to explore my projects and see how I leverage data to 
 If you’re looking for a data enthusiast who can bring clarity and impact to your data challenges, let’s connect! 🤝
 
 📞 Contact Me:
-✉️ Email: hello.nivashinsights@gmail.com
+✉️ Email: hello.nivashinsights@gmail.com 
+
 📱 Mobile: +91 7092679162
+
 🌐 Website: https://rnnivash.github.io/My_Port/
 
 💻 Tech Stack:
