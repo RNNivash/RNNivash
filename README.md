@@ -1,7 +1,3 @@
-
-Memory updated
-Here’s the updated README for your portfolio:
-
 💫 About Me:
 Hi there! I’m Nivash R N, a Data Science enthusiast passionate about unlocking insights through data. With a strong foundation in Python, SQL, and data visualization, I thrive on analyzing and transforming data into actionable insights. 🌟
 
