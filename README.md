@@ -31,10 +31,6 @@ If you’re looking for a data enthusiast who can bring clarity and impact to yo
 📱 Mobile: +91 7092679162  
 🌐 Website: [https://rnnivash.github.io/My_Port/](https://rnnivash.github.io/My_Port/)
 
-# 💫 About Me:
-I am an enthusiastic and driven aspiring data analyst with a deep passion for data and analytics. With expertise in tools like Python, SQL, Power BI, and Tableau, I focus on transforming raw data into meaningful insights. I’m committed to continuously expanding my knowledge and embracing new challenges in the ever-evolving field of data analytics.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nixaxh._.prvt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivash-r-n/) 
 
