@@ -47,11 +47,11 @@ I’m a highly motivated Data Science enthusiast with a strong foundation in **P
 ## 📂 Featured Projects
 | Project | Description |
 |--------|-------------|
-| [Kidney Disease Classification](#) | 99.17% accurate ML model using XGBoost, CatBoost & GridSearchCV |
-| [AI Writer Suite](#) | Full-stack AI app using LangChain + Gemini, deployed with FastAPI + Streamlit |
-| [Employee Performance Dashboard](#) | Interactive Power BI dashboard for performance trend insights |
-| [Ola SQL Data Analysis](#) | Complex query-based analysis of real-time Ola operations |
-| [Gemini Chatbot](#) | Real-time LLM chatbot using Google Gemini API & LangChain |
+| [Kidney Disease Classification](https://github.com/RNNivash/Kidney-Disease-Prediction-using-Machine-Learning) | 99.17% accurate ML model using XGBoost, CatBoost & GridSearchCV |
+| [AI Writer Suite](https://github.com/RNNivash/AI-Writer-Suite) | Full-stack AI app using LangChain + Gemini, deployed with FastAPI + Streamlit |
+| [Employee Performance Dashboard](https://github.com/RNNivash/Employee_Performance_Insights) | Interactive Power BI dashboard for performance trend insights |
+| [Ola SQL Data Analysis](https://github.com/RNNivash/OLA_Data_Analysis) | Complex query-based analysis of real-time Ola operations |
+| [Gemini Chatbot](https://github.com/RNNivash/Conversational-Chat-Bot) | Real-time LLM chatbot using Google Gemini API & LangChain |
 
 ---
 
@@ -59,8 +59,7 @@ I’m a highly motivated Data Science enthusiast with a strong foundation in **P
 - 📧 Email: [hello.nivashinsights@gmail.com](mailto:hello.nivashinsights@gmail.com)  
 - 🌐 Portfolio: [rnnivash.github.io/My_Port](https://rnnivash.github.io/My_Port/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nivash-r-n)  
-- 📸 [Instagram](https://www.instagram.com)  
-- 🧠 [HackerRank](https://www.hackerrank.com/) | 💡 [LeetCode](https://leetcode.com/) | 🏅 [Credly](https://www.credly.com/)
+- 🧠 [HackerRank](https://www.hackerrank.com/profile/Nivash_R_N) | 💡 [LeetCode](https://leetcode.com/u/rajnivash007/) | 🏅 [Credly](https://www.credly.com/users/nivash-r-n)
 
 ---
 
