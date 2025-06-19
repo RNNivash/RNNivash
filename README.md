@@ -1,35 +1,69 @@
 
-## 💫 About Me:
-Hi there! I’m Nivash R N, a Data Science enthusiast passionate about unlocking insights through data. With a strong foundation in **Python**, **SQL**, and **data visualization**, I thrive on analyzing and transforming data into actionable insights. 🌟
+# 👋 Hi, I’m Nivash R N
 
-You need someone who:
-➠ Has expertise in **Python**, **SQL**, **data visualization**, and **machine learning** with hands-on project experience? 🎓  
-➠ Is committed to helping businesses make data-driven decisions through clear visualizations and detailed analysis? 📊  
-➠ Can solve complex problems using statistical and machine learning techniques? 🧠
+🎯 **Aspiring Data Scientist & GenAI Developer**  
+🔍 Passionate about transforming data into actionable insights through Machine Learning, Visualization & LLM-powered solutions.
 
-### ✔ Why Work With Me?
-I combine a deep enthusiasm for data with solid technical skills. From analyzing customer and order data to applying machine learning models, I strive to bring clarity to business challenges. I'm ready to help organizations make data-backed decisions and drive growth.
+---
 
-### ✔ Highlights of My Journey:
-➠ Worked on multiple data analysis projects, including **Zomato Data Analysis** using **Python** and **SQL**, and **Ola Data Analysis** with **SQL**. 📈  
-➠ Completed internships at **Besant Technologies** , focusing on machine learning, data analysis, and data science. 🧑‍💻  
-➠ Achieved a solid understanding of **Python** and **SQL** for analyzing and managing datasets. 🔎  
-➠ Experience in exploring data, identifying trends, and applying machine learning algorithms to real-world problems.
+## 💼 About Me
+I’m a highly motivated Data Science enthusiast with a strong foundation in **Python**, **SQL**, **Power BI**, and **Machine Learning**. From exploring raw datasets to deploying predictive models and building LLM-based tools, I love crafting data-driven solutions that solve real-world problems.
 
-### ✔ What I Offer:
-➠ **Data Science Expertise**: Experience in analyzing datasets, visualizing trends, and applying machine learning techniques. 📉  
-➠ **Creative Problem-Solving**: Crafting innovative solutions to complex data challenges. 💡
+---
 
-### ✔ Explore My Work:
-Visit my **[GitHub Portfolio](https://github.com/RNNivash)** to explore my projects and see how I leverage data to drive meaningful insights. 🌐
+## 🚀 Why Work With Me?
+✔️ Hands-on experience in **Data Analysis, ML, and LLM Applications**  
+✔️ Strong communicator with a passion for storytelling through **Dashboards & Visuals**  
+✔️ Fast learner & team player ready to take on new challenges  
 
-### ✔ Let’s Collaborate:
-If you’re looking for a data enthusiast who can bring clarity and impact to your data challenges, let’s connect! 🤝
+---
 
-📞 **Contact Me**:  
-✉️ Email: hello.nivashinsights@gmail.com  
-📱 Mobile: +91 7092679162  
-🌐 Website: [https://rnnivash.github.io/My_Port/](https://rnnivash.github.io/My_Port/)
+## 🔍 My Highlights
+- 📊 Built multiple data-driven projects including:
+  - **Zomato Data Analysis** (Python, Pandas, Matplotlib)
+  - **Ola Data Management** (SQL, Excel)
+  - **Kidney Disease Classification** (Scikit-learn, XGBoost, GridSearchCV)
+  - **Diabetes Risk Prediction** (Flask, LightGBM)
+  - **LLM Projects:** AI Writer Suite, Gemini Chatbot using **LangChain + Gemini**
+- 💻 Developed & deployed ML/LLM applications using **Streamlit**, **FastAPI**, **LangChain**, and **Google Gemini API**
+- 📚 Completed internships and simulations at **Besant Technologies**, **PwC**, and **Accenture Forage**
+
+---
+
+## 🧠 Tech Stack
+**Languages & Tools:**  
+`Python` `SQL` `Git` `GitHub` `Jupyter Notebook` `VS Code` `Flask` `Google Colab`  
+**Data Science:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `LightGBM` `EDA` `ETL`  
+**Visualization:**  
+`Power BI` `Tableau` `Excel` `Plotly`  
+**GenAI & LLMs:**  
+`LangChain` `Gemini API` `OpenAI` `Ollama` `RAG` `Streamlit` `FastAPI`  
+**Other:**  
+`Firebase` `Flutter` `SQLite` `Dart` `Keras` `TensorFlow` `Canva`
+
+---
+
+## 📂 Featured Projects
+| Project | Description |
+|--------|-------------|
+| [Kidney Disease Classification](#) | 99.17% accurate ML model using XGBoost, CatBoost & GridSearchCV |
+| [AI Writer Suite](#) | Full-stack AI app using LangChain + Gemini, deployed with FastAPI + Streamlit |
+| [Employee Performance Dashboard](#) | Interactive Power BI dashboard for performance trend insights |
+| [Ola SQL Data Analysis](#) | Complex query-based analysis of real-time Ola operations |
+| [Gemini Chatbot](#) | Real-time LLM chatbot using Google Gemini API & LangChain |
+
+---
+
+## 📫 Let’s Connect!
+- 📧 Email: [hello.nivashinsights@gmail.com](mailto:hello.nivashinsights@gmail.com)  
+- 🌐 Portfolio: [rnnivash.github.io/My_Port](https://rnnivash.github.io/My_Port/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nivash-r-n)  
+- 📸 [Instagram](https://www.instagram.com)  
+- 🧠 [HackerRank](https://www.hackerrank.com/) | 💡 [LeetCode](https://leetcode.com/) | 🏅 [Credly](https://www.credly.com/)
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nixaxh._.prvt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nivash-r-n/) 
